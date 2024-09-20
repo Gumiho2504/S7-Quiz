@@ -1,0 +1,74 @@
+{
+    "questions": [
+        {
+            "question": "Who was the first President of the United States?",
+            "answers": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "In which year did World War II end?",
+            "answers": ["1942", "1944", "1945", "1946"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Which empire was known for its vast road network?",
+            "answers": ["Roman Empire", "Ottoman Empire", "Mongol Empire", "Greek Empire"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Who was the British Prime Minister during World War II?",
+            "answers": ["Neville Chamberlain", "Winston Churchill", "Clement Attlee", "Margaret Thatcher"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which historical figure is known for crossing the Alps with elephants during the Second Punic War?",
+            "answers": ["Alexander the Great", "Julius Caesar", "Hannibal", "Napoleon Bonaparte"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "In which year did the French Revolution begin?",
+            "answers": ["1787", "1789", "1792", "1801"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Who was the last Tsar of Russia before the Russian Revolution?",
+            "answers": ["Nicholas I", "Alexander II", "Nicholas II", "Ivan the Terrible"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Which ancient civilization built the pyramids of Giza?",
+            "answers": ["Mesopotamians", "Romans", "Incas", "Egyptians"],
+            "correctAnswer": 3
+        },
+        {
+            "question": "Which treaty ended World War I?",
+            "answers": ["Treaty of Versailles", "Treaty of Paris", "Treaty of Tordesillas", "Treaty of Ghent"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Who discovered America in 1492?",
+            "answers": ["Marco Polo", "Christopher Columbus", "Ferdinand Magellan", "Leif Erikson"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which country gifted the Statue of Liberty to the United States?",
+            "answers": ["Germany", "France", "Italy", "Spain"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "In which year did the Berlin Wall fall?",
+            "answers": ["1987", "1988", "1989", "1990"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What was the name of the ship that brought the Pilgrims to America in 1620?",
+            "answers": ["Santa Maria", "Mayflower", "HMS Victory", "Endeavour"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Who was the first female Prime Minister of the United Kingdom?",
+            "answers": ["Margaret Thatcher", "Theresa May", "Indira Gandhi", "Golda Meir"],
+            "correctAnswer": 0
+        }
+    ]
+}

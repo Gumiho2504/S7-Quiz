@@ -1,0 +1,74 @@
+{
+    "questions": [
+        {
+            "question": "What is the square root of 144?",
+            "answers": ["10", "12", "14", "16"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the value of Pi (approximately)?",
+            "answers": ["3.12", "3.14", "3.16", "3.18"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "If you have a triangle with angles 60°, 60°, and 60°, what type of triangle is it?",
+            "answers": ["Isosceles", "Equilateral", "Scalene", "Right-angled"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is 15% of 200?",
+            "answers": ["20", "25", "30", "35"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the derivative of x^2 with respect to x?",
+            "answers": ["x", "2x", "x^2", "2"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is 8 multiplied by 7?",
+            "answers": ["54", "56", "58", "60"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the area of a circle with a radius of 5 units (use Pi ≈ 3.14)?",
+            "answers": ["25", "50", "78.5", "31.4"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the formula to find the circumference of a circle?",
+            "answers": ["πr^2", "2πr", "πd", "r/2"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "How many degrees are in a right angle?",
+            "answers": ["45", "90", "180", "360"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "If a rectangle has a length of 8 and a width of 4, what is its area?",
+            "answers": ["8", "12", "16", "32"],
+            "correctAnswer": 3
+        },
+        {
+            "question": "What is the sum of the angles in any triangle?",
+            "answers": ["90°", "180°", "270°", "360°"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the greatest common divisor (GCD) of 24 and 36?",
+            "answers": ["6", "8", "12", "18"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "If a car travels 60 miles in 2 hours, what is its average speed?",
+            "answers": ["20 mph", "30 mph", "40 mph", "60 mph"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Which number is both a factor of 24 and a multiple of 4?",
+            "answers": ["6", "8", "12", "16"],
+            "correctAnswer": 1
+        }
+    ]
+}

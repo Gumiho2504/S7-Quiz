@@ -1,0 +1,74 @@
+{
+    "questions": [
+        {
+            "question": "What does HTML stand for?",
+            "answers": ["Hyperlinks and Text Markup Language", "Home Tool Markup Language", "Hyper Text Markup Language", "Hyperlinking Tool for Marking Language"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Which of the following is a Python framework for web development?",
+            "answers": ["Flask", "Laravel", "Spring", "React"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Which data structure uses LIFO (Last In First Out)?",
+            "answers": ["Queue", "Stack", "Heap", "Tree"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What does 'const' mean in JavaScript?",
+            "answers": ["A variable that can be reassigned", "A block-scoped, read-only named constant", "A global variable", "A mutable variable"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which language is primarily used for iOS app development?",
+            "answers": ["Java", "Swift", "Kotlin", "Dart"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which of the following is used to style web pages?",
+            "answers": ["HTML", "CSS", "Python", "SQL"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "In Python, how do you insert comments?",
+            "answers": ["//", "<!-- -->", "#", "/* */"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Which of these languages is known as the mother of all programming languages?",
+            "answers": ["Python", "C", "Java", "COBOL"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the output of 5 + '5' in JavaScript?",
+            "answers": ["10", "55", "NaN", "Error"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the main difference between '==' and '===' in JavaScript?",
+            "answers": ["'==' compares values and '===' compares both values and types", "'==' is used for assignment and '===' for comparison", "'==' compares types and '===' compares values", "'===' checks only for strict equality"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Which of the following is a version control system?",
+            "answers": ["Git", "Docker", "Jenkins", "AWS"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What is the time complexity of binary search?",
+            "answers": ["O(n)", "O(n^2)", "O(log n)", "O(1)"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the default value of a Boolean variable in Java?",
+            "answers": ["true", "false", "0", "null"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is a closure in JavaScript?",
+            "answers": ["A block of code that runs before the main script", "A function bundled together with its lexical environment", "A class in JavaScript", "An error handler"],
+            "correctAnswer": 1
+        }
+    ]
+}

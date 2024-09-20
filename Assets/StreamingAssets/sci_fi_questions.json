@@ -1,0 +1,74 @@
+{
+    "questions": [
+        {
+            "question": "Who wrote the science fiction novel 'Dune'?",
+            "answers": ["Isaac Asimov", "Arthur C. Clarke", "Frank Herbert", "Philip K. Dick"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the name of the AI that controls the ship in '2001: A Space Odyssey'?",
+            "answers": ["HAL 9000", "R2-D2", "C-3PO", "GLaDOS"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "In which movie does the character Neo appear?",
+            "answers": ["Inception", "Blade Runner", "The Matrix", "Star Wars"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the name of the spaceship in 'Alien'?",
+            "answers": ["Serenity", "Nostromo", "Enterprise", "Galactica"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Who is the author of the 'Foundation' series?",
+            "answers": ["Ray Bradbury", "Frank Herbert", "Isaac Asimov", "Philip K. Dick"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the name of the alien species in the movie 'Avatar'?",
+            "answers": ["Na'vi", "Klingon", "Wookiee", "Romulan"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "In the film 'Blade Runner', what term is used for human-like robots?",
+            "answers": ["Cyborgs", "Replicants", "Androids", "Machines"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which planet is the setting for most of the movie 'The Martian'?",
+            "answers": ["Mars", "Venus", "Earth", "Jupiter"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What is the title of the sci-fi TV series where Captain Jean-Luc Picard commands the starship Enterprise?",
+            "answers": ["Star Trek: Voyager", "Battlestar Galactica", "Star Trek: The Next Generation", "Firefly"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Who wrote 'The War of the Worlds'?",
+            "answers": ["Jules Verne", "Isaac Asimov", "H.G. Wells", "Arthur C. Clarke"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the name of the alien race in 'District 9'?",
+            "answers": ["Prawns", "Xenomorphs", "Kryptonians", "Borg"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What year was the first 'Star Wars' movie released?",
+            "answers": ["1975", "1977", "1980", "1983"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "In 'The Hitchhiker's Guide to the Galaxy', what is the answer to the ultimate question of life, the universe, and everything?",
+            "answers": ["Infinity", "42", "Love", "The universe itself"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which movie features the character Ellen Ripley?",
+            "answers": ["Star Wars", "Terminator", "Alien", "The Matrix"],
+            "correctAnswer": 2
+        }
+    ]
+}

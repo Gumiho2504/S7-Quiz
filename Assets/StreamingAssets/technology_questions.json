@@ -1,0 +1,74 @@
+{
+    "questions": [
+        {
+            "question": "Who is known as the father of the computer?",
+            "answers": ["Charles Babbage", "Alan Turing", "Bill Gates", "Steve Jobs"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Which company created the iPhone?",
+            "answers": ["Google", "Microsoft", "Apple", "Samsung"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What does HTTP stand for?",
+            "answers": ["HyperText Transmission Protocol", "HyperText Transfer Protocol", "High Transmission Text Protocol", "HyperTransfer Text Protocol"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What does 'RAM' stand for in computing?",
+            "answers": ["Random Access Memory", "Read-Only Memory", "Run Access Memory", "Random Application Module"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Which programming language is primarily used for Android app development?",
+            "answers": ["Swift", "Kotlin", "Java", "C++"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Who is the founder of Microsoft?",
+            "answers": ["Steve Jobs", "Elon Musk", "Mark Zuckerberg", "Bill Gates"],
+            "correctAnswer": 3
+        },
+        {
+            "question": "What does 'GPU' stand for in computer hardware?",
+            "answers": ["General Processing Unit", "Graphics Processing Unit", "Graphical Power Unit", "Graphical Processing Utility"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which social media platform was founded by Mark Zuckerberg?",
+            "answers": ["Instagram", "Twitter", "Facebook", "LinkedIn"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the name of the first electronic general-purpose computer?",
+            "answers": ["UNIVAC", "ENIAC", "Altair 8800", "IBM 5150"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What does 'USB' stand for?",
+            "answers": ["Universal Serial Bus", "Universal System Bus", "Unified Serial Bus", "Universal Simple Bus"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Which company developed the Windows operating system?",
+            "answers": ["Apple", "Google", "Microsoft", "IBM"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the most common keyboard layout used in computers today?",
+            "answers": ["Dvorak", "QWERTY", "AZERTY", "Colemak"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What does the acronym 'IoT' stand for?",
+            "answers": ["Internet of Things", "Input-output Technology", "Information on Technology", "Internet of Technology"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Which technology is used to make telephone calls over the Internet?",
+            "answers": ["VoIP", "HTTP", "ISP", "SMS"],
+            "correctAnswer": 0
+        }
+    ]
+}

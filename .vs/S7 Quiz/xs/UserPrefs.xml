@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{8E4327E8-1040-F88B-2C9E-F3EEBDB6971F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Game/script/QuizManager.cs">
+    <Files>
+      <File FileName="Assets/Game/script/QuizManager.cs" Line="44" Column="43" />
+      <File FileName="Assets/Game/script/Menu.cs" Line="31" Column="1" />
+      <File FileName="Assets/LeanTween/Examples/Scripts/TestingUnitTests.cs" Line="526" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c09ab33b-8613-4485-8b1a-22f0e3cc5f46" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

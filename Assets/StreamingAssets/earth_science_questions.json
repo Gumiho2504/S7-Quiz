@@ -1,0 +1,74 @@
+{
+    "questions": [
+        {
+            "question": "Which layer of the Earth lies just beneath the crust?",
+            "answers": ["Inner core", "Outer core", "Mantle", "Lithosphere"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the process by which plants make their food called?",
+            "answers": ["Osmosis", "Respiration", "Photosynthesis", "Digestion"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Which gas makes up most of Earth's atmosphere?",
+            "answers": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon Dioxide"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the most abundant element in the Earth's crust?",
+            "answers": ["Oxygen", "Silicon", "Aluminum", "Iron"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What is the name of the supercontinent that existed around 300 million years ago?",
+            "answers": ["Gondwana", "Laurasia", "Pangea", "Eurasia"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "What is the scale used to measure the magnitude of earthquakes?",
+            "answers": ["Richter Scale", "Beaufort Scale", "Fahrenheit", "Kelvin"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "Which type of rock is formed by the cooling and solidification of magma or lava?",
+            "answers": ["Sedimentary", "Igneous", "Metamorphic", "Clastic"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the term for the movement of water from the Earth's surface to the atmosphere and back?",
+            "answers": ["Water Cycle", "Condensation", "Evaporation", "Transpiration"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What kind of boundary occurs when two tectonic plates move away from each other?",
+            "answers": ["Convergent", "Divergent", "Transform", "Strike-slip"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "What is the name of the process where rocks are broken down by wind, water, or ice?",
+            "answers": ["Sedimentation", "Weathering", "Fossilization", "Melting"],
+            "correctAnswer": 1
+        },
+        {
+            "question": "Which ocean is the largest in terms of area?",
+            "answers": ["Atlantic Ocean", "Indian Ocean", "Pacific Ocean", "Arctic Ocean"],
+            "correctAnswer": 2
+        },
+        {
+            "question": "Which planet is known as Earth's 'sister planet' because of its similar size and composition?",
+            "answers": ["Venus", "Mars", "Jupiter", "Mercury"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What is the term for the point on Earth's surface directly above an earthquake's focus?",
+            "answers": ["Epicenter", "Hypocenter", "Fault line", "Seismic point"],
+            "correctAnswer": 0
+        },
+        {
+            "question": "What is the name of the current geological era?",
+            "answers": ["Mesozoic", "Cenozoic", "Paleozoic", "Proterozoic"],
+            "correctAnswer": 1
+        }
+    ]
+}

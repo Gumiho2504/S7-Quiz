@@ -1,0 +1,72 @@
+{
+    "questions": [
+      {
+        "question": "What is the capital of France?",
+        "answers": ["Berlin", "Madrid", "Paris", "Rome"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the smallest prime number?",
+        "answers": ["1", "2", "3", "5"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the largest ocean on Earth?",
+        "answers": ["Atlantic", "Pacific", "Indian", "Arctic"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "Who discovered penicillin?",
+        "answers": ["Marie Curie", "Albert Einstein", "Alexander Fleming", "Isaac Newton"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "answers": ["China", "South Korea", "Japan", "Thailand"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the square root of 64?",
+        "answers": ["6", "7", "8", "9"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What element does 'O' represent on the periodic table?",
+        "answers": ["Oxygen", "Osmium", "Opal", "Obsidian"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "Who was the first man to step on the moon?",
+        "answers": ["Neil Armstrong", "Buzz Aldrin", "Michael Collins", "Yuri Gagarin"],
+        "correctAnswer": 0
+      },
+      {
+        "question": "What is the hardest natural substance on Earth?",
+        "answers": ["Gold", "Diamond", "Steel", "Iron"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "How many continents are there?",
+        "answers": ["5", "6", "7", "8"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "What is the capital city of Australia?",
+        "answers": ["Sydney", "Canberra", "Melbourne", "Brisbane"],
+        "correctAnswer": 1
+      },
+      {
+        "question": "What is the longest river in the world?",
+        "answers": ["Amazon", "Yangtze", "Nile", "Mississippi"],
+        "correctAnswer": 2
+      },
+      {
+        "question": "Which element is needed to make nuclear power and nuclear weapons?",
+        "answers": ["Hydrogen", "Oxygen", "Uranium", "Carbon"],
+        "correctAnswer": 2
+      }
+
+
+    ]
+  }
+  
